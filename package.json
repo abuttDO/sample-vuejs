@@ -35,6 +35,11 @@
     },
     "rules": {}
   },
+    "engines": {
+    "node": "^16",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  },
   "browserslist": [
     "> 1%",
     "last 2 versions",
